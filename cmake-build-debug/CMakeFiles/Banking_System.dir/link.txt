@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Banking_System.dir/main.cpp.o CMakeFiles/Banking_System.dir/Person_Details.cpp.o CMakeFiles/Banking_System.dir/Structs.cpp.o CMakeFiles/Banking_System.dir/Bank_System.cpp.o -o Banking_System 

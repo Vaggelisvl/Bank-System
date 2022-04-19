@@ -1,0 +1,3 @@
+/mnt/c/Users/snz/Desktop/Banking_System/cmake-build-debug/CMakeFiles/Banking_System.dir
+/mnt/c/Users/snz/Desktop/Banking_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/snz/Desktop/Banking_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
