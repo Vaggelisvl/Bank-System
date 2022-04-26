@@ -1,5 +1,5 @@
 # Bank-System
-A Bank System made with c++.In general there are 2 optio availiable for admnis and users.
+A Bank System made with c++.In general there are 2 options availiable for admnis and users.
 More Specific user can:
 -transfer money to another user
 -change some of their personal info
